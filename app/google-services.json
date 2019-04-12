@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "41132026919",
+    "firebase_url": "https://rockscissor-eca64.firebaseio.com",
+    "project_id": "rockscissor-eca64",
+    "storage_bucket": "rockscissor-eca64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41132026919:android:a7db39634230b344",
+        "android_client_info": {
+          "package_name": "com.example.rockscissor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41132026919-julauq9dhqgvf0ludk13ich2gmecbum2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rockscissor",
+            "certificate_hash": "ef9fb14e78d77760bdd3d9d1ad346088fceb6ba4"
+          }
+        },
+        {
+          "client_id": "41132026919-uon3ro3bkfvbi0ckrmbbh8mc8ond93id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC_GMvaaRnxdb-wdw8gdddM20JJGQbAAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41132026919-uon3ro3bkfvbi0ckrmbbh8mc8ond93id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
